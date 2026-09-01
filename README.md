@@ -11,6 +11,5 @@ Bu proje, harici bulut servislerine ihtiyaç duymadan tamamen yerel (local) dona
 ## 🛠️ Kurulum
 
 1. Depoyu klonlayın veya indirin:
-```bash
-git clone <repo-linkiniz>
-cd <repo-klasoru>
+git clone https://github.com/esmakasap/local-rag-document-assistant.git
+cd local-rag-document-assistant
