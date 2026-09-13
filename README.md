@@ -1,6 +1,6 @@
 # Local RAG Application with LangChain & Local LLM
 
-Bu proje, harici bulut servislerine ihtiyaç duymadan tamamen yerel (local) donanım üzerinde çalışan bir Doküman Soru-Cevap (RAG - Retrieval-Augmented Generation) sistemidir.
+Bu proje, harici bulut servislerine ihtiyaç duymadan tamamen yerel donanım üzerinde çalışan bir Doküman Soru-Cevap (RAG - Retrieval-Augmented Generation) sistemidir.
 
 ## 🚀 Özellikler
 - **Yerel LLM:** Ollama üzerinden çalışan Llama 3.2 / Phi-3 modelleri.
